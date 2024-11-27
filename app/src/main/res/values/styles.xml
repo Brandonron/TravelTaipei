@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ToolBarStyle">
+        <item name="android:background">@android:color/holo_blue_light</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">?attr/actionBarSize</item>
+        <item name="android:minHeight">?attr/actionBarSize</item>
+        <item name="android:elevation">2dp</item>
+    </style>
+
+</resources>
